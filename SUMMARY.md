@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Welcome](README.md)
-* [Getting started](getting-started.md)
+* [Edu-Framework](README.md)
+* [Prêt pour démarrer](pret-pour-demarrer.md)
 * [Changelog](changelog.md)
 
 ## Contribution
