@@ -19,8 +19,14 @@ Pour installer "Scoop", suivre les instructions dans le "Quickstart" :
 
 {% embed url="https://scoop.sh/" %}
 
-### Pour MACOS
+### Pour MAC
 
 Pour installer "Brew", suivre les instructions dans le "Installer Homebrew" :
+
+{% hint style="info" %}
+L'installation de Xcode Command Line tools d'Apple peut être nécessaire
+
+Tapez la commande dans un terminal "xcode-select --install"
+{% endhint %}
 
 {% embed url="https://brew.sh/index_fr" %}
