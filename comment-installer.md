@@ -35,7 +35,7 @@ composer create-project studoo/edu-framework-skeleton NOM_DU_PROJET
 Exemple d'affichage suite à la commande :&#x20;
 
 {% hint style="info" %}
-Ce résultat est un exemple et il ne sera probablement pas le vôtre.
+_Ce résultat est un exemple et il ne sera probablement pas le vôtre._
 
 L'importance est d'avoir <mark style="background-color:yellow;">**les étapes suivantes :**</mark>&#x20;
 

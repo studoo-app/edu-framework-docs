@@ -1,7 +1,11 @@
 # Table of contents
 
 * [Edu-Framework](README.md)
-* [Avant de démarrer](avant-de-demarrer.md)
+* [Avant de démarrer](avant-de-demarrer/README.md)
+  * [COMMAND-LINE INSTALLER](avant-de-demarrer/command-line-installer.md)
+  * [GIT](avant-de-demarrer/git.md)
+  * [PHP](avant-de-demarrer/php.md)
+  * [COMPOSER](avant-de-demarrer/composer.md)
 * [Comment installer ?](comment-installer.md)
 * [Comment démarrer ?](comment-demarrer.md)
 * [Annexes](annexes/README.md)
