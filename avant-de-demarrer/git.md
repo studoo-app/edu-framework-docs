@@ -9,7 +9,7 @@ Il offre également des fonctionnalités avancées telles que la possibilité de
 Pour savoir sur GIT est installé sur votre poste de travail, tapez cette commande dans un terminal
 
 ```
-git -v
+git --version
 ```
 
 {% hint style="info" %}

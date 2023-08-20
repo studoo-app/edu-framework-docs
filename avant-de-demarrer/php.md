@@ -2,6 +2,10 @@
 
 Ce framework utilise le langage PHP.&#x20;
 
+{% hint style="warning" %}
+Nous vous recommendons d'installer la version 8.1
+{% endhint %}
+
 Pour savoir si PHP est installé sur votre machine, ouvrez un terminal et saisir cette commande :&#x20;
 
 ```bash
@@ -21,3 +25,22 @@ Zend Engine v4.1.21, Copyright (c) Zend Technologies
     with Zend OPcache v8.1.21, Copyright (c), by Zend Technologies
 ```
 
+### Pour WINDOWS
+
+Pour installation GIT, ouvrez un terminal (PowerShell)
+
+```
+scoop bucket add versions
+```
+
+```
+scoop install versions/php81
+```
+
+### Pour MAC
+
+Pour installation GIT, ouvrez un terminal
+
+```
+brew install php@8.1
+```
