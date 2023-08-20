@@ -27,13 +27,12 @@ Edu-Framework est une proposition d'architecture MVC pour la création de projet
 * Orchestrer via un gestionnaire de package (composer)
 * Développement de test unitaire
 * Début d'approche pour l'enseignement d'un framework (Symfony, Laravel ...)
+* Option - utilisation de docker
 
 {% hint style="info" %}
 Ce framework n'est pas adapté à une utilisation en production. Il est destiné à des fins pédagogiques.
 {% endhint %}
 
-{% hint style="warning" %}
-Ce projet est en cours de développement.
+{% hint style="danger" %}
+Ce projet est en cours de développement. (deadline janv. 2024)
 {% endhint %}
-
-Pour utiliser Edu-Framework, suivre les instructions :

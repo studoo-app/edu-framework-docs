@@ -2,7 +2,7 @@
 description: Comment installer le framework !
 ---
 
-# Prêt pour démarrer
+# Comment installer ?
 
 ### Installation
 
@@ -78,33 +78,21 @@ Résultat de toutes les opérations. Des messages d'alerte concernant les mises 
 
 ```shell
 Creating a "studoo/edu-framework-skeleton" project at "./NOM_DU_PROJET"
-Installing studoo/edu-framework-skeleton (1.0.0)
-  - Downloading studoo/edu-framework-skeleton (1.0.0)
-  - Installing studoo/edu-framework-skeleton (1.0.0): Extracting archive
+Installing studoo/edu-framework-skeleton (X.0.0)
+  - Downloading studoo/edu-framework-skeleton (X.0.0)
+  - Installing studoo/edu-framework-skeleton (X.0.0): Extracting archive
 Created project in /Users/redbull/Projects/studoo/NOM_DU_PROJET
 Loading composer repositories with package information
 Updating dependencies
 Lock file operations: 9 installs, 0 updates, 0 removals
-  - Locking graham-campbell/result-type (1.1.x-dev 60c5f57)
-  - Locking nikic/fast-route (v1.x-dev 4012884)
-  - Locking phpoption/phpoption (dev-master dd3a383)
-  - Locking studoo/edu-framework (dev-main c5cd9c5)
-  - Locking symfony/polyfill-ctype (1.x-dev ea208ce)
-  - Locking symfony/polyfill-mbstring (1.x-dev 42292d9)
-  - Locking symfony/polyfill-php80 (1.x-dev 6caa573)
-  - Locking twig/twig (3.x-dev fea9dfc)
+  - Locking graham-campbell/result-type (X.1.x-dev 60c5f57)
+    [...]
   - Locking vlucas/phpdotenv (dev-master 1a7ea2a)
 Writing lock file
 Installing dependencies from lock file (including require-dev)
 Package operations: 9 installs, 0 updates, 0 removals
-  - Installing symfony/polyfill-php80 (1.x-dev 6caa573): Extracting archive
-  - Installing symfony/polyfill-mbstring (1.x-dev 42292d9): Extracting archive
-  - Installing symfony/polyfill-ctype (1.x-dev ea208ce): Extracting archive
-  - Installing phpoption/phpoption (dev-master dd3a383): Extracting archive
-  - Installing graham-campbell/result-type (1.1.x-dev 60c5f57): Extracting archive
-  - Installing vlucas/phpdotenv (dev-master 1a7ea2a): Extracting archive
-  - Installing twig/twig (3.x-dev fea9dfc): Extracting archive
-  - Installing nikic/fast-route (v1.x-dev 4012884): Extracting archive
+  - Installing symfony/polyfill-php80 (X.x-dev 6caa573): Extracting archive
+    [...]
   - Installing studoo/edu-framework (dev-main c5cd9c5): Extracting archive
 Generating autoload files
 7 packages you are using are looking for funding.
