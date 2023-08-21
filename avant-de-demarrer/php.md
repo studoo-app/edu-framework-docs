@@ -27,7 +27,7 @@ Zend Engine v4.1.21, Copyright (c) Zend Technologies
 
 ### Pour WINDOWS
 
-Pour installation GIT, ouvrez un terminal (PowerShell)
+Pour installation PHP, ouvrez un terminal (PowerShell)
 
 ```
 scoop bucket add versions
@@ -39,7 +39,7 @@ scoop install versions/php81
 
 ### Pour MAC
 
-Pour installation GIT, ouvrez un terminal
+Pour installation PHP, ouvrez un terminal
 
 ```
 brew install php@8.1
