@@ -38,7 +38,7 @@ scoop install main/git
 
 Pour installation GIT, ouvrez un terminal
 
-```
+```bash
 brew install git
 ```
 

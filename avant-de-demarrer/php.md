@@ -29,11 +29,11 @@ Zend Engine v4.1.21, Copyright (c) Zend Technologies
 
 Pour installation PHP, ouvrez un terminal (PowerShell)
 
-```
+```bash
 scoop bucket add versions
 ```
 
-```
+```bash
 scoop install versions/php81
 ```
 
@@ -41,6 +41,6 @@ scoop install versions/php81
 
 Pour installation PHP, ouvrez un terminal
 
-```
+```bash
 brew install php@8.1
 ```

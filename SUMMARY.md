@@ -8,6 +8,8 @@
   * [COMPOSER](avant-de-demarrer/composer.md)
 * [Comment installer ?](comment-installer.md)
 * [Comment démarrer ?](comment-demarrer.md)
+* [Usage](usage/README.md)
+  * [Création du page](usage/creation-du-page.md)
 * [Annexes](annexes/README.md)
   * [Changelog](annexes/changelog.md)
   * [Les liens pour le projet](annexes/les-liens-pour-le-projet.md)
