@@ -12,6 +12,7 @@
 * [Usage](usage/README.md)
   * [Création du page](usage/creation-du-page.md)
   * [Une route](usage/une-route.md)
+  * [Un controller](usage/un-controller.md)
 * [Annexes](annexes/README.md)
   * [Changelog](annexes/changelog.md)
   * [Les liens pour le projet](annexes/les-liens-pour-le-projet.md)
