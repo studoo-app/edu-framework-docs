@@ -10,7 +10,7 @@ Les raisons sont simples :&#x20;
 
 #### Pour versionner le projet :&#x20;
 
-1/ Créez un nouveau "repository" chez votre fournisseur GIT (Github, GitLab ...)
+1/ Créez un nouveau dépôt (repository) chez votre fournisseur GIT (Github, GitLab ...)
 
 {% hint style="warning" %}
 **Veuillez noter que le repository doit être VIDE au moment de la création.**
@@ -26,7 +26,7 @@ Les raisons sont simples :&#x20;
 git init
 ```
 
-* Ajout de l'URL du repository GIT
+* Ajout de l'URL du dépôt (repository) GIT
 
 ```bash
 git remote add origin <URL GIT>
@@ -58,7 +58,7 @@ git add * .gitignore .env.example
 git commit -m 'init project'
 ```
 
-* Envoi des fichiers sur le repository central git&#x20;
+* Envoi des fichiers local sur le dépôt (repository) distant&#x20;
 
 ```bash
 git push -u origin main
