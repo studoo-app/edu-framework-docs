@@ -14,6 +14,7 @@
   * [Une route](usage/une-route.md)
   * [Couche Controller](usage/couche-controller.md)
   * [Couche Vue](usage/couche-vue.md)
+  * [Couche Modèle](usage/couche-modele.md)
 * [Annexes](annexes/README.md)
   * [Changelog](annexes/changelog.md)
   * [Les liens pour le projet](annexes/les-liens-pour-le-projet.md)
